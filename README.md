@@ -1,2 +1,3 @@
 # ByteCup International Machine Learning Competition
-[embed]https://github.com/deepsidhpura777/ByteCup-ML-Competition/project.pdf[/embed]
+
+project.pdf : Brief description of the competition and the various approaches tried to achieve the maximum accuracy
